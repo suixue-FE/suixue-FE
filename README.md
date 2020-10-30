@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=lisansang&show_icons=true&theme=merko" />
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lisansang&layout=compact" />
+  <img style="display:inline-block" src = "https://github-readme-stats.vercel.app/api?username=lisansang&show_icons=true&theme=merko" />
+  <img style="display:inline-block" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lisansang&layout=compact" />
