@@ -4,6 +4,6 @@
 
 **李三丧**，一个还在努力进步的小前端。
 
-- 🤔  正在学习：Node/TS/leetcode
+- 🤔  正在学习：Node/算法/TS/react
 - 📚  乱写的一些学习记录： [语雀](https://www.yuque.com/lisansang)
-- 🔧  现在会点：JavaScript/Node/TypeScript
+- 🔧  现在会点：JavaScript/vue/Node
