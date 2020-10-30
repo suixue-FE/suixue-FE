@@ -1,20 +1,7 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**lisansang/lisansang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-  <img style="display:inline-block" src = "https://github-readme-stats.vercel.app/api?username=lisansang&show_icons=true&theme=merko" />
-  <img style="display:inline-block" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lisansang&layout=compact" />
+**李三丧**，一个还在努力进步的小前端。
+- 🤔  正在学习：Node/TS/leetcode
+- 📚  乱写的一些学习记录：[语雀](https://www.yuque.com/lisansang)
+- 🔧  现在会点：JavaScript/Node/TypeScript
+<img align="right" alt="ouuan's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=lisansang&show_icons=true&theme=merko">
